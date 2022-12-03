@@ -1,1 +1,1 @@
-seems like python might be interesting
+Readme to my python task
