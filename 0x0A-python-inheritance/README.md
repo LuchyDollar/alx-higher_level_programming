@@ -4,4 +4,4 @@
 with tasks and solutions provided.
 
 ## Author
-Faith Oluchi okereke
+Faith Oluchi Okereke
