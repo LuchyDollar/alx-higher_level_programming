@@ -1,4 +1,4 @@
-zy_matrix_mul`` module
+The ``101-lazy_matrix_mul`` module
 ======================
 
 Using ``lazy_matrix_mul``
@@ -102,4 +102,4 @@ Checking for mismatching matrices:
 	 >>> lazy_matrix_mul([[1, 2, 3], [4, 5, 6]], [[1, 2], [3, 4,]])
 	 Traceback (most recent call last):
 	 ...
-	 ValueError: shapes (2,3) and (2,2) not aligned: 3 (dim 1) != 2 (dim 0)	
+	 ValueError: shapes (2,3) and (2,2) not aligned: 3 (dim 1) != 2 (dim 0)
