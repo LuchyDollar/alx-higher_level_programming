@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Defines lazy_matrix function
